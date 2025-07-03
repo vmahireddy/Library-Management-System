@@ -53,7 +53,7 @@ def library_menu():
         elif choice == '12':
             break
         else:
-            print("Invalid choice.")
+            print("Invalid choice or option.")
 def main():
     while True:
         print("\nMain Menu:")
